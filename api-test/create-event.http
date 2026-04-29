@@ -1,0 +1,10 @@
+POST http://localhost:8080/events
+Content-Type: application/json
+Authorization: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImFkbWluQGV4YW1wbGUuY29tIiwiZXhwIjoxNzc2NzUwNTE3LCJ1c2VySWQiOjF9.1sSsJsrGchbwg57BPb-q3wLrp0K-RAGigQTL6vpqrXg
+
+{
+  "name": "Ai summit",
+  "description": "This is a Artificial Intelligence summit.",  
+  "location": "New York",
+  "date": "2024-07-01T10:00:00Z"
+}

@@ -1,0 +1,9 @@
+PUT  http://localhost:8080/events/1
+content-type: application/json
+
+{
+  "name": "AI summit 2024-update-test",
+  "description": "This is an updated description for the AI summit-update-test.",
+  "location": "San Francisco -update-test",
+  "date": "2024-08-01T10:00:00Z"
+}
